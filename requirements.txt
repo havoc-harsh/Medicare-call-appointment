@@ -1,0 +1,6 @@
+flask==2.3.3
+twilio==8.5.0
+python-dotenv==1.0.0
+groq==0.4.1
+psycopg2-binary==2.9.9
+python-dateutil==2.8.2 
