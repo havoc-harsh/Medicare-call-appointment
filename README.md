@@ -2,6 +2,9 @@
 
 A voice call appointment system powered by Twilio and LLM.
 
+# WorkFlow
+twilio transcribes the call -> passes to groq ai for query validation -> clarifies the data and request -> logs the appointment in database
+
 ## Setup Instructions
 
 1. Clone the repository
